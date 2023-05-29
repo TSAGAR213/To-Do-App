@@ -1,0 +1,21 @@
+h1 {
+    color: #db279f;
+    text-align: center;
+    }
+    
+
+button{
+    color: #231b9c;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-pink{
+	background-color:black;
+}
+.list
+{    list-style: none;
+    color: #db279f;
+    font-size: x-large;
+}
